@@ -1,0 +1,10 @@
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\bin\Debug\Kres_Nol_3x3-IT.exe.config
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\bin\Debug\Kres_Nol_3x3-IT.exe
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\bin\Debug\Kres_Nol_3x3-IT.pdb
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\obj\Debug\Kres_Nol_3x3-IT.csprojAssemblyReference.cache
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\obj\Debug\Kres_Nol_3x3_IT.Form1.resources
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\obj\Debug\Kres_Nol_3x3_IT.Properties.Resources.resources
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\obj\Debug\Kres_Nol_3x3-IT.csproj.GenerateResource.cache
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\obj\Debug\Kres_Nol_3x3-IT.csproj.CoreCompileInputs.cache
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\obj\Debug\Kres_Nol_3x3-IT.exe
+D:\!Repos\Kres_Nol_3x3-IT\Kres_Nol_3x3-IT\obj\Debug\Kres_Nol_3x3-IT.pdb
